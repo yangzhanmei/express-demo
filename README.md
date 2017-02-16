@@ -5,3 +5,4 @@
 git clone https://github.com/yangzhanmei/express-demo.git<br/>
 cd express-demo<br/>
 node server.js
+打开浏览器http://localhost:8080/
