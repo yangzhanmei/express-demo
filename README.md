@@ -7,4 +7,4 @@ git clone https://github.com/yangzhanmei/express-demo.git
 cd express-demo
 node server.js
 ```
-打开浏览器http://localhost:8080/
+打开浏览器<http://localhost:8080/>
